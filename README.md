@@ -13,7 +13,7 @@ combining the efforts of these and many other excellent efforts in the
 healthcare technology space, we hope to mitigate the effects of this terrible
 disease.
 ## Part :
-The objective of the first part of the problem statement is to predict the
+The objective of this part of the problem statement is to predict the
 probability of a person getting infected by Covid-19 on 20th March 2020. The
 output file 01 should contain only people_ID and the respective infect_prob
 for the test data.
